@@ -28,7 +28,7 @@ import tkinter as tk
 import webbrowser
 
 def open_website():
-    webbrowser.open("https://totalchaos.online")
+    webbrowser.open("https://atharv.totalchaos.online")
 
 
 # Background image
