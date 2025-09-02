@@ -62,7 +62,11 @@ python -m uvicorn app.main:app --reload
 ---
 
 ## 🖥️ Screenshots 
-> You can add some screenshots of your GUI here (main menu, billing, admin panel, etc.)
+![alt text](https://github.com/atharv-thakre/retail_management_system/blob/main/images/main.png)
+![alt text](https://github.com/atharv-thakre/retail_management_system/blob/main/images/employee_login.png)
+![alt text](https://github.com/atharv-thakre/retail_management_system/blob/main/images/bill_window.png)
+![alt text](https://github.com/atharv-thakre/retail_management_system/blob/main/images/update_employee.png)
+
 
 ---
    
